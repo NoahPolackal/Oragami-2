@@ -1,0 +1,12 @@
+.Pics{
+    display: flex;
+    flex-direction: row;
+    border: 5px solid blueviolet;
+    margin-left:  100px;
+    margin-right:300px
+}
+h1{
+    font-size: 70px;
+    display: flex;
+    justify-content:center;
+}
